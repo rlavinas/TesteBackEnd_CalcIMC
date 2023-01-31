@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classe_Somar", "..\Classe_Somar\Classe_Somar.csproj", "{C2EE6BF8-AF97-4520-A3EF-D9DA59C5D855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste_Somar_MSTeste", "..\Teste_Somar_MSTeste\Teste_Somar_MSTeste.csproj", "{9F5C040E-3DD6-4003-8CAF-D7E4A7883E4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2EE6BF8-AF97-4520-A3EF-D9DA59C5D855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2EE6BF8-AF97-4520-A3EF-D9DA59C5D855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2EE6BF8-AF97-4520-A3EF-D9DA59C5D855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2EE6BF8-AF97-4520-A3EF-D9DA59C5D855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F5C040E-3DD6-4003-8CAF-D7E4A7883E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5C040E-3DD6-4003-8CAF-D7E4A7883E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5C040E-3DD6-4003-8CAF-D7E4A7883E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5C040E-3DD6-4003-8CAF-D7E4A7883E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFFF8776-A49F-4388-96BF-146DAA98E1EC}
+	EndGlobalSection
+EndGlobal

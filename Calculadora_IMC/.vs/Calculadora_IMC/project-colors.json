@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bd8a9912-f125-4731-a784-8f3b41cf42fa": {
+      "ProjectGuid": "bd8a9912-f125-4731-a784-8f3b41cf42fa",
+      "DisplayName": "Calculadora_IMC",
+      "ColorIndex": 0
+    },
+    "2f0edfe5-b740-402d-81b8-8e8837f22741": {
+      "ProjectGuid": "2f0edfe5-b740-402d-81b8-8e8837f22741",
+      "DisplayName": "TesteIMC_MSTeste",
+      "ColorIndex": 1
+    },
+    "4190da71-cc05-498a-8ad6-397e84d8a7f4": {
+      "ProjectGuid": "4190da71-cc05-498a-8ad6-397e84d8a7f4",
+      "DisplayName": "TesteIMC_XUnit",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

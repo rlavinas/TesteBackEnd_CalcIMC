@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2abdc5d3-9099-4692-97d9-61f4f67388a2": {
+      "ProjectGuid": "2abdc5d3-9099-4692-97d9-61f4f67388a2",
+      "DisplayName": "Teste_Somar",
+      "ColorIndex": 0
+    },
+    "c2ee6bf8-af97-4520-a3ef-d9da59c5d855": {
+      "ProjectGuid": "c2ee6bf8-af97-4520-a3ef-d9da59c5d855",
+      "DisplayName": "Classe_Somar",
+      "ColorIndex": 1
+    },
+    "9f5c040e-3dd6-4003-8caf-d7e4a7883e4e": {
+      "ProjectGuid": "9f5c040e-3dd6-4003-8caf-d7e4a7883e4e",
+      "DisplayName": "Teste_Somar_MSTeste",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
